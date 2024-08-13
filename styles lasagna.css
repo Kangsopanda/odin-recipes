@@ -1,3 +1,9 @@
+body{
+    background-color: rgb(79, 160, 160);
+}
+div {
+    border: 2px solid rgb(255, 0, 0);
+}
 header {
     font-size: 36px;
     font-weight: 600;
@@ -10,4 +16,17 @@ header {
 img{
     width: 600px;
     
+}
+.Text{
+    font-size: 18px;
+    font-weight: 300;
+}
+.Detail{
+    font-size: 22px;
+    font-weight: 600;
+    padding-left: 50px;
+    color: brown;
+}   
+.list{
+    font-size: 16px;
 }
