@@ -3,6 +3,7 @@ body{
 }
 div {
     border: 2px solid rgb(255, 0, 0);
+    padding: 10px;
 }
 header {
     font-size: 36px;
@@ -30,4 +31,16 @@ img{
 }   
 .list{
     font-size: 16px;
+}
+.Button{
+    background-color: rgb(63, 2, 143);
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 1px 20px;
+    border-radius: 4px;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 5px;
+
 }
