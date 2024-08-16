@@ -1,10 +1,8 @@
 body{
     background-color: rgb(107, 96, 96);
+    margin: 10px;
 }
-div {
-    border: 2px solid rgb(255, 255, 255);
-    padding: 10px;
-}
+
 header {
     font-size: 36px;
     font-weight: 600;
@@ -13,11 +11,16 @@ header {
     background-color: rgb(250, 235, 150);
     margin: 10px;
     padding: 1px;
-    weight: 30% ;
 }
-img{
-    width: 600px;
-    
+.Main-Conten{
+    border: 2px solid rgb(18, 255, 58);
+    margin: auto;
+    max-width: 1200px;
+    background-color: lightgray;
+}
+.Image{
+    width: 50%;
+    height: 400px;
 }
 .Text{
     font-size: 18px;
@@ -33,6 +36,7 @@ img{
 }   
 .list{
     font-size: 16px;
+    padding-right: 15px;
 }
 .Button{
     background-color: rgb(63, 2, 143);
