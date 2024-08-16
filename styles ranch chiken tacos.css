@@ -19,8 +19,8 @@ header {
     background-color: lightgray;
 }
 .Image{
-    width: 50%;
-    height: 400px;
+    width: 80%;
+    height: 600px;
 }
 .Text{
     font-size: 18px;
@@ -32,11 +32,14 @@ header {
     font-size: 22px;
     font-weight: 600;
     padding-left: 50px;
-    color: greenyellow;
+    color: rgb(142, 182, 83);
 }   
 .list{
     font-size: 16px;
     padding-right: 15px;
+}
+footer{
+    margin: 5px;
 }
 .Button{
     background-color: rgb(63, 2, 143);

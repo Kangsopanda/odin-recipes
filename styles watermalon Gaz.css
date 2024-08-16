@@ -1,9 +1,12 @@
 body{
     background-color: rgb(146, 114, 53);
+    margin: 10px;
 }
-div {
+.Main-Conten {
     border: 2px solid rgb(255, 255, 255);
-    padding: 10px;
+    margin: auto;
+    max-width: 1200px;
+    background-color: lightgray;
 }
 header {
     font-size: 36px;
@@ -13,10 +16,10 @@ header {
     background-color: rgb(250, 150, 212);
     margin: 10px;
     padding: 1px;
-    weight: 30% ;
 }
 img{
-    width: 600px;
+    width: 80%;
+
     
 }
 .Text{
@@ -31,10 +34,13 @@ img{
     font-size: 22px;
     font-weight: 600;
     padding-left: 50px;
-    color: greenyellow;
+    color: rgb(88, 139, 10);
 }   
 .list{
     font-size: 16px;
+}
+footer{
+    margin: 5px;
 }
 .Button{
     background-color: rgb(63, 2, 143);

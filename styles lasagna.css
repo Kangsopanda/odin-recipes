@@ -37,6 +37,9 @@ header {
     font-size: 16px;
     padding-right: 15px;
 }
+footer{
+    margin: 5px;
+}
 .Button{
     background-color: rgb(63, 2, 143);
     color: white;
