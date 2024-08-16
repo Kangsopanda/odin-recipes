@@ -1,27 +1,31 @@
 body{
     background-color: rgb(79, 160, 160);
-}
-div {
-    border: 2px solid rgb(255, 0, 0);
+    margin: 10px;
     padding: 10px;
 }
 header {
+    background-color: brown;
+    color: blanchedalmond;
     font-size: 36px;
     font-weight: 600;
     text-align: center;
-    color: blanchedalmond;
-    background-color: rgb(165, 97, 42);
-    margin: 10px;
     padding: 1px;
+    margin: 10px;
+
 }
-img{
-    width: 600px;
-    
+.Main-Conten {
+    margin: auto;
+    max-width: 1200px;
+    border: 2px solid crimson;
+}
+.Image{
+    width: 80%;
 }
 .Text{
     font-size: 18px;
     font-weight: 300;
-    padding-left: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 .Detail{
     font-size: 22px;
