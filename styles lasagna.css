@@ -17,6 +17,7 @@ header {
     margin: auto;
     max-width: 1200px;
     border: 2px solid crimson;
+    background-color: lightgrey;
 }
 .Image{
     width: 80%;
